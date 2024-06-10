@@ -5,7 +5,7 @@
   color:white;
             display: flex;
             align-items: center;
-  background-color: black;
+  background-color: grey;
             justify-content: center;
         }
         .header-content h1 {
@@ -19,7 +19,7 @@
             margin-right: 10px;
         }
         section {
-            padding: 120px 80px 80px;
+            padding: 500px 80px 80px;
             text-align: center;
             margin-top: 80px;
         }
