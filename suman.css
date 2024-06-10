@@ -3,7 +3,7 @@
 }
 .header-content {
   color:white;
-            display: rectangular;
+            display: flex;
             align-items: center;
   background-color: black;
             justify-content: center;
