@@ -3,6 +3,7 @@
 }
 .header-content {
   color:white;
+  height: 40px;
             display: flex;
             align-items: center;
   background-color: black;
